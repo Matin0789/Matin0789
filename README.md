@@ -42,7 +42,7 @@ I’m a **Computer Engineering** student passionate about **Robotics**, **Artifi
 ## 📫 How to Reach Me
 
 - 📧 Email: matin.a0789@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/matin-a-942865298](www.linkedin.com/in/matin-a-942865298)  
+- 🔗 LinkedIn: [linkedin.com/in/matin-a-942865298](https://www.linkedin.com/in/matin-a-942865298)  
 
 ---
 
