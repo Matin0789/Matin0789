@@ -32,7 +32,7 @@
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Matin0789&show_icons=true&theme=radical)](https://github.com/Matin0789)
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matin0789&layout=compact&theme=radical)](https://github.com/Matin0789)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matin0789&layout=compact&theme=radical)](https://github.com/Matin0789)
 
 ### ⚡ About Me
 
